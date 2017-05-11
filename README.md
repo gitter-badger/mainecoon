@@ -44,3 +44,5 @@ ExpressionAlg[Option]
 ```
 
 ### For more detail checkout the website [kailuowang.com/mainecoon](http://kailuowang.com/mainecoon).
+
+[![Join the chat at https://gitter.im/kailuowang/mainecoon](https://badges.gitter.im/kailuowang/mainecoon.svg)](https://gitter.im/kailuowang/mainecoon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
